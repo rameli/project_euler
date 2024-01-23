@@ -1,2 +1,2 @@
 # project_euler
-Project
+[Project Euler](projecteuler.net) solutions in various languages specially Go and Python.
